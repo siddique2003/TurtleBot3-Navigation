@@ -22,7 +22,7 @@ This project demonstrates the autonomous navigation of the TurtleBot3 robot in a
    - Build the workspace with `catkin_make`.
    - Source the setup files with `source devel/setup.bash`.
 2. **Launching the Simulation**
-   - Run `roslaunch [package_name] [launch_file.launch]` to start the simulation and navigation.
+   - Run `roslaunch turtlebot3_gazebo turtlebot3_stage_4.launch` to start the simulation and navigation.
 3. **Running the Smach State Machine**
    - Execute the state machine script to start the autonomous navigation.
 
